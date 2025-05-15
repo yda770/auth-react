@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.scp/
+.env
+.nwabaprc
+.nwabaprc_NGW
+Makefile*.mta
+mta_archives
+mta-*
+resources
+archive.zip
+.*_mta_build_tmp
